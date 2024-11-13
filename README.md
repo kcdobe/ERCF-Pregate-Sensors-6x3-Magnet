@@ -2,7 +2,7 @@
 
 This mod adds pregate sensors to the ERCF V2 that are incorporated right into the filament path parts. It has been edited from the original mod to use 6x3 magnets and a standard d2f switch. 
 
-![image](https://github.com/juliusjj25/ERCF-Pregate-Sensors/assets/118471600/bbdb6755-35dd-410e-bb5e-a3d932e86dfc)
+![image](Filament_Path_Sensored_6x3_Mag v1.jpg)
 
 There are also nifty little mounts to hold an XH 2 pin board connector below the gate to help aid in quick removal of the filament path if maintenance is needed. 
 
