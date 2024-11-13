@@ -1,6 +1,6 @@
 # ERCF-Pregate-Sensors
 
-This mod adds pregate sensors to the ERCF V2 that are incorporated right into the filament path parts. 
+This mod adds pregate sensors to the ERCF V2 that are incorporated right into the filament path parts. It has been edited from the original mod to use 6x3 magnets and a standard d2f switch. 
 
 ![image](https://github.com/juliusjj25/ERCF-Pregate-Sensors/assets/118471600/bbdb6755-35dd-410e-bb5e-a3d932e86dfc)
 
@@ -15,7 +15,8 @@ There are 4 parts involved with this mod and each need to be printed for each ga
 ## Bill of Materials (Per Gate)
 | Item                      | Quantity | Notes            | Source                                                                                      |
 | ------------------------- | -------- | ---------------- | ------------------------------------------------------------------------------------------- |
-| Levered D2F Switch        | 1        | D2F-L3-D3        | https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2F-L3-D3/6071977  |
+| D2F Switch                | 1        | Pull the lever off| https://www.amazon.com/dp/B073TYWX86?ref=ppx_yo2ov_dt_b_fed_asin_title                      |
+| 6x3 Magnet                | 1        | Magnet           | https://www.amazon.com/dp/B09MRN2X7L?ref=ppx_yo2ov_dt_b_fed_asin_title                      |
 | Board Mount XH Connector  | 1        | B2B-XH-2         | https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-XH-2/9960900           |
 | Male XH Connector         | 1        | XHP-2            | https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-2/555485               |
 | XH Terminals              | 2        | SXH-001T-P0.6    | https://www.digikey.com/en/products/detail/jst-sales-america-inc/SXH-001T-P0-6/527371       |
